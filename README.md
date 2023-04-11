@@ -17,3 +17,6 @@ brew install protobuf
 go install github.com/golang/protobuf/protoc-gen-go@latest
 ```
 
+## 部署到aws
+
+### 1. github上安装流水线
