@@ -9,6 +9,8 @@ import (
 )
 
 func main() {
+
+	// just test
 	rpcServer := grpc.NewServer()
 	services.RegisterProductServiceServer(rpcServer, new(services.ProdService))
 	listen, err := net.Listen("tcp", ":8081")
