@@ -14,6 +14,6 @@ brew install protobuf
 ## Protoc-gen-go的安装
 
 ```shell
-go install github.com/golang/protobuf/protoc-gen-go@latest 作者：V-i-c https://www.bilibili.com/read/cv21871593/ 出处：bilibili
+go install github.com/golang/protobuf/protoc-gen-go@latest
 ```
 
