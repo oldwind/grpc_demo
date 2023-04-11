@@ -22,5 +22,5 @@ go install github.com/golang/protobuf/protoc-gen-go@latest
 ### 1. github上安装流水线
 
 ### 2. ecr 和 ecs配置
-ECR: Amazon EC2 Container Registry (ECR) 是完全托管的 docker容器注册表
-ECS: Amazon EC2 Container Service（ECS）是一个高度可扩展的软件容器管理服务
+- ECR: Amazon EC2 Container Registry (ECR) 是完全托管的 docker容器注册表
+- ECS: Amazon EC2 Container Service（ECS）是一个高度可扩展的软件容器管理服务
